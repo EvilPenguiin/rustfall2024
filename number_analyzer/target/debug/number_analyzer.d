@@ -1,0 +1,1 @@
+C:\Users\Andrew\Documents\2024\ Fall\ Semester\CSCI_3334_Systems_Programming\rustfall2024\number_analyzer\target\debug\number_analyzer.exe: C:\Users\Andrew\Documents\2024\ Fall\ Semester\CSCI_3334_Systems_Programming\rustfall2024\number_analyzer\src\main.rs
