@@ -1,0 +1,1 @@
+C:\Users\Andrew\Documents\2024\ Fall\ Semester\CSCI_3334_Systems_Programming\rustfall2024\Temperature_Converter\target\debug\Temperature_Converter.exe: C:\Users\Andrew\Documents\2024\ Fall\ Semester\CSCI_3334_Systems_Programming\rustfall2024\Temperature_Converter\src\main.rs
