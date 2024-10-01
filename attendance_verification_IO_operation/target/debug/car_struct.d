@@ -1,0 +1,1 @@
+C:\Users\Andrew\Documents\2024\ Fall\ Semester\CSCI_3334_Systems_Programming\rustfall2024\attendance_verification_IO_operation\target\debug\car_struct.exe: C:\Users\Andrew\Documents\2024\ Fall\ Semester\CSCI_3334_Systems_Programming\rustfall2024\attendance_verification_IO_operation\src\main.rs
